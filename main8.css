@@ -1,6 +1,8 @@
 body{
 
-  background: linear-gradient(to bottom, #1a1916 0%, #0f0e2e 50%, #1a1916 100%);
+  background-image: url('bg-simulasi.jpg') !important;
+  background-repeat: no-repeat;
+  background-size: cover;
 
   font-family: 'Cabin', sans-serif;
 
