@@ -1,1 +1,0 @@
-# simulasi-kredit-bisma
